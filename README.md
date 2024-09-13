@@ -1,6 +1,4 @@
 # The-Return-A-Text-Based-RPG
-
-<h2>The Return</h2>
         
 <h2>Description</h2>
         
