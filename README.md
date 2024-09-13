@@ -34,7 +34,7 @@
 <ul type=circle>      
   <li>Read the prompts carefully.</li>
         
-  <li>Type your commands (e.g., “go north”,“go south”).</li>
+  <li>Type your commands (Allowed Verbs --> <b>'Go'</b>, <b>'Examine'</b>, <b>'Get'</b>, <b>'Use'</b>, <b>'Inventory'</b>, <b>'TalkTo'</b>, <b>'Say'</b>, <b>'Give'</b>, <b>'Read'</b>, <b>'Help'</b>).</li>
           
   <li>Unravel the story and see where your choices lead.</li>
 </ul> 
