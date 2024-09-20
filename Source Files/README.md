@@ -26,8 +26,9 @@ We invite you to contribute to the project! Whether you’re a coder, writer, de
 <br>
 <h2>Getting Started</h2>
 <ul><li>Clone the Repository:
-git clone https://github.com/Leo-exe-24/The-Return-A-Text-Based-RPG.git
-cd The-Return
+    
+    git clone https://github.com/Leo-exe-24/The-Return-A-Text-Based-RPG.git
+    cd The-Return
 </li>
 <li><b>Install Dependencies:</b> Make sure you have Visual Studio and Unity installed as mentioned above.</li>
 <li><b>Run the Game:</b></li>
